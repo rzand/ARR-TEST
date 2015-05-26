@@ -1,4 +1,5 @@
-﻿<#
+﻿##Modified in branch 3 ##########
+<#
 .SYNOPSIS
 Searches a string in the event viewer.
 .DESCRIPTION
